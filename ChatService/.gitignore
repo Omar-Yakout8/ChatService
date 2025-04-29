@@ -1,0 +1,21 @@
+# Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+
+# Ignore build folders
+bin/
+obj/
+
+# Ignore published files
+*.publish/
+
+# Ignore other general files
+*.log
+*.tmp
+*.cache
+*.env
+
+# Node modules (if you later have React frontend inside)
+node_modules/
+build/
